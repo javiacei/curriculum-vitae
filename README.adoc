@@ -8,14 +8,10 @@ Software Engineer
 :quirks:
 :theme: cv
 :toclevels: 2
-
-// :author: Francisco Javier Aceituno
-// :encoding: UTF-8
-// :lang: en
-// :description: Francisco Javier is an experienced software engineer focus on +
-// building Web systems with more than 8 years of PHP and JavaScript experience. +
-// He is always learning new technologies, patterns and languages to improve his +
-// skills on computer science.
+:description: Francisco Javier is an experienced software engineer focus on +
+building Web systems with more than 8 years of PHP and JavaScript experience. +
+He is always learning new technologies, patterns and languages to improve his +
+skills on computer science.
 
 .Expertise
 ****
@@ -43,8 +39,8 @@ GitHub:: https://github.com/javiacei
 
 == Work experience
 
-=== Software Lead Developer ~August 2016 => Current~
-*Viwomail*
+=== Software Lead Developer 
+*Viwomail* _August 2016 => Current_
 
 Management::
 - Backend lead developer
@@ -58,14 +54,14 @@ Backend side::
 - Implement the foundation of the new applications (Symfony 3 and Slim)
 - Refactor application building and distribution through Docker
 
-=== Symfony 2 Trainer ~May 2014 => Current~
-*Alfa9*
+=== Symfony 2 Trainer
+*Alfa9* _May 2014 => Current_
 
 - Training companies Symfony 2
 - Symfony 2 screencasts creation for online training
 
-=== Senior Full Stack Developer ~July 2014 => July 2016 (2 years)~
-*SamyRoad*
+=== Senior Full Stack Developer
+*SamyRoad* _July 2014 => July 2016 (2 years)_
 
 Full stack developer (Ruby and JavaScript), working using SCRUM and appliying eXtreme Programming methologies.
 
@@ -81,8 +77,8 @@ Frontend side::
 universal application using React and Redux.
 - Technologies used: JavaScript (ECMAScript 6), React, Redux, Jasmine, Node.js, Express, webpack, JSON API
 
-=== Chief Technical Officer ~August 2013 => May 2014 (10 months)~
-*IdealMonkey*
+=== Chief Technical Officer
+*IdealMonkey* _August 2013 => May 2014 (10 months)_
 
 Management::
 - Technical Lead
@@ -99,19 +95,19 @@ Frontend side::
 - Implementation of a JavaScript client using Backbone, JQuery and Underscore
 - Design and implementation of a Google Chrome Extension to use server RESTful API
 
-=== Senior Software Engineer ~May 2012 => July 2013 (1 year and 1 month)~
-*Unidad Editorial*
+=== Senior Software Engineer
+*Unidad Editorial* _May 2012 => July 2013 (1 year and 1 month)_
 
 As part of the R & D team of Unidad Editorial, I have worked on the design and implementation of the CMS currently used
 by the company for the development of many of their products like El Mundo, Marca and Metropoli.
 
-- Architectural design of the CMS _core_ in server side
+- Architectural design of the CMS core in server side
 - Integration with a XUL client application
 - SCRUM & eXtreme Programming methologies
 - Symfony 2 training
 
-=== Software Engineer ~August 2010 => March 2012 (1 year and 10 months)~
-*ideup!*
+=== Software Engineer
+*ideup!* _August 2010 => March 2012 (1 year and 10 months)_
 
 - Maintenance projects implemented in PHP, Drupal 6 and Symfony 1.x
 - Development of new projects in Drupal 6
@@ -119,8 +115,8 @@ by the company for the development of many of their products like El Mundo, Marc
 - Analysis, design and implementation of a new tool for Gas Natural customer. This application powered in PHP, using
 Symfony 2 framework, MySQL and tools like Doctrine 2 for database and PHPUnit and PHPDepend for project quality
 
-=== Developer ~October 2009 => July 2010 (10 months)~
-*Facultad de Informática, Universidad Politécnica*
+=== Developer
+*Facultad de Informática, Universidad Politécnica* _October 2009 => July 2010 (10 months)_
 
 As a member of a development team in collaboration with Fibernet company, I have worked implementing an application to
 monitor fiber optic networks.
@@ -128,8 +124,8 @@ monitor fiber optic networks.
 - Technical design, diagrams and implementation of a PHP server application to simulate fiber optic networks
 - Implementation of a JavaScript (Dojo) application to configurate network nodes behaviour
 
-=== Developer ~June 2008 => September 2009 (1 year and 4 months)~
-*Grupo Evolución*
+=== Developer
+*Grupo Evolución* _June 2008 => September 2009 (1 year and 4 months)_
 
 - Technical design and implementation of an instant messaging service using plain PHP and JavaScript
 - Implementation of an internal Content Management System (CMS) to build company web pages
@@ -137,39 +133,40 @@ monitor fiber optic networks.
 == Education
 === Formal education
 Bachelor Degree in Computer Science Engineer::
-Facultad de Informática, Universidad Politécnica, Madrid ~2003 => 2010~
+Facultad de Informática, Universidad Politécnica, Madrid _2003 => 2010_
 
 Final degree project::
-Analysis, design and implementation of a web system to simulate fiber networks (_Honors_) ~2010~
+Analysis, design and implementation of a web system to simulate fiber networks (_Honors_) _2010_
 
 === Certifications
 MondoDB for developers::
-10gen (_Honors_) ~2010~
+10gen (_Honors_) _2010_
 
 === Public speaking
 [cols=2]
+Universal JavaScript with React & Redux:: _upcoming_
 Realtime php applications::
-PHPMadrid community ~http://es.slideshare.net/javiacei/aplicaciones-en-tiempo-real[view]~
+PHPMadrid community http://es.slideshare.net/javiacei/aplicaciones-en-tiempo-real[view]
 Concert of events::
-deSymfony2012 ~http://es.slideshare.net/javiacei/desymfony2012-concierto-de-eventos[view]~
+deSymfony2012 http://es.slideshare.net/javiacei/desymfony2012-concierto-de-eventos[view]
 Symfony 2 ecosystem::
-Codemotion Madrid 2012 ~http://es.slideshare.net/javiacei/symfony2-y-su-ecosistema[view]~
+Codemotion Madrid 2012 http://es.slideshare.net/javiacei/symfony2-y-su-ecosistema[view]
 SCRUM and eXtreme Programming::
-Facultad de Informática, Universidad de Politécnica de Madrid 2011 ~http://es.slideshare.net/javiacei/scrum-and-extreme-programming[view]~
+Facultad de Informática, Universidad de Politécnica de Madrid 2011 http://es.slideshare.net/javiacei/scrum-and-extreme-programming[view]
 
 == Skills
 
 [cols=2]
-Programming languages:: PHP ~since 2008~, JavaScript ECMA 5 ~since 2008~, JavaScript ECMA 6 ~since 2015~, Ruby ~since
-2014~, GO ~since 2016~
-Frameworks and libraries:: Symfony ~since 2008~, PHP Microframeworks (Silex & Slim) ~since 2012~, Ruby on Rails ~since
-2014~, Sinatra ~since 2014~, Node.js ~since 2014~, Express ~since 2014~, React ~since 2015~, Redux ~since 2015~
-Databases:: MySQL ~since 2008~, MongoDB ~since 2012~, Redis ~since 2013~, Doctrine 2 ~since 2012~
-Testing:: TDD using PHPUnit ~since 2012~, BDD using Behat ~since 2014~, TDD using Rspec ~since 2014~
-Asynchronous messaging systems:: RabbitMQ ~2012 - 2015~, Sidekiq ~since 2015~
-Automation and distribution:: Ansible ~since 2015~, Capistrano ~since 2012~, Docker ~since 2016~
-Methodologies:: SCRUM ~since 2011~, eXtreme Programming ~since 2011~
-Others:: Linux ~since 2004~, Vim ~since 2011~, Git ~since 2011~, RESTful ~since 2012~, OAuth 2 ~since 2013~
+Programming languages:: PHP ~since~ ~2008~ - JavaScript ECMA 5 ~since~ ~2008~ - JavaScript ECMA 6 ~since~ ~2015~ - Ruby
+~since~ ~2014~ - GO ~since~ ~2016~
+Frameworks and libraries:: Symfony ~since~ ~2008~ - PHP Microframeworks (Silex & Slim) ~since~ ~2012~ - Ruby on Rails
+~since~ ~2014~ - Sinatra ~since~ ~2014~ - Node.js ~since~ ~2014~ - Express ~since~ ~2014~ - React ~since~ ~2015~ - Redux ~since~ ~2015~
+Databases:: MySQL ~since~ ~2008~ - MongoDB ~since~ ~2012~ - Redis ~since~ ~2013~ - Doctrine 2 ~since~ ~2012~
+Testing:: TDD using PHPUnit ~since~ ~2012~ - BDD using Behat ~since~ ~2014~ - TDD using Rspec ~since~ ~2014~
+Asynchronous messaging systems:: RabbitMQ ~2012~ ~=>~ ~2015~ - Sidekiq ~since~ ~2015~
+Automation and distribution:: Ansible ~since~ ~2015~ - Capistrano ~since~ ~2012~ - Docker ~since~ ~2016~
+Methodologies:: SCRUM ~since~ ~2011~ - eXtreme Programming ~since~ ~2011~
+Others:: Linux ~since~ ~2004~ - Vim ~since~ ~2011~ - Git ~since~ ~2011~ - RESTful ~since~ ~2012~ - OAuth 2 ~since~ ~2013~
 
 == Languages
 
