@@ -63,7 +63,7 @@ Backend side::
 === Senior Full Stack Developer
 *SamyRoad* _July 2014 => July 2016 (2 years)_
 
-Full stack developer (Ruby and JavaScript), working using SCRUM and appliying eXtreme Programming methologies.
+Full stack developer (Ruby and JavaScript), working using SCRUM and applying eXtreme Programming methodologies.
 
 Backend side::
 - Maintenance of applications written in RoR 3
@@ -83,10 +83,10 @@ universal application using React and Redux.
 Management::
 - Technical Lead
 - Analysis of the product requirements
-- Schedule deadlines and organize sprints
+- Schedule deadlines and sprints
 
 Backend side::
-- Technical design and implmentation of a RESTful API using Symfony 2 and DDD approach
+- Technical design and implementation of a RESTful API using Symfony 2 and DDD approach
 - OAuth 2 protocol implementation
 - Continuous Integration using Jenkins and BDD (Behat)
 - Establish the work methodology (SCRUM and eXtreme Programming)
@@ -103,7 +103,7 @@ by the company for the development of many of their products like El Mundo, Marc
 
 - Architectural design of the CMS core in server side
 - Integration with a XUL client application
-- SCRUM & eXtreme Programming methologies
+- SCRUM & eXtreme Programming metholodogies
 - Symfony 2 training
 
 === Software Engineer
@@ -122,7 +122,7 @@ As a member of a development team in collaboration with Fibernet company, I have
 monitor fiber optic networks.
 
 - Technical design, diagrams and implementation of a PHP server application to simulate fiber optic networks
-- Implementation of a JavaScript (Dojo) application to configurate network nodes behaviour
+- Implementation of a JavaScript (Dojo) application to configure network nodes behaviour
 
 === Developer
 *Grupo Evolución* _June 2008 => September 2009 (1 year and 4 months)_
