@@ -103,7 +103,7 @@ by the company for the development of many of their products like El Mundo, Marc
 
 - Architectural design of the CMS core in server side
 - Integration with a XUL client application
-- SCRUM & eXtreme Programming metholodogies
+- SCRUM & eXtreme Programming methodologies
 - Symfony 2 training
 
 === Software Engineer
